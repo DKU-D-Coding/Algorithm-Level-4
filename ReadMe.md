@@ -11,18 +11,36 @@
 
 ## :dolphin: 문제 리스트
 
-### :lock: mo's
-
-### :lock: 센트로이드 분할
-
-### :lock: 오일러 경로 테크닉
-
-
-### :lock: HLD
+### :left_right_arrow: mo's
+1. [BOJ 수열과 쿼리 5](https://www.acmicpc.net/problem/13547)
+2. [BOJ 배열의 힘](https://www.acmicpc.net/problem/8462)
+3. [BOJ 수열과 쿼리 0](https://www.acmicpc.net/problem/13545)
 
 
-### :lock: FFT
+### :wavy_dash: 센트로이드 분할
+1. [BOJ 트리와 쿼리 5](https://www.acmicpc.net/problem/13514)
+2. [BOJ UCPC 만들기](https://www.acmicpc.net/problem/22360)
+3. [BOJ 경주](https://www.acmicpc.net/problem/5820)
+
+### :roller_coaster: 오일러 경로 테크닉
+1. [BOJ 주식회사 승범이네](https://www.acmicpc.net/problem/16404)
+2. [BOJ 트리와 색깔](https://www.acmicpc.net/problem/15899)
+3. [BOJ 성대나라의 물탱크](https://www.acmicpc.net/problem/18227)
 
 
-### :lock: 다이나믹 프로그래밍 최적화
+### :small_airplane: HLD
+1. [BOJ 트리와 쿼리 1](https://www.acmicpc.net/problem/13510)
+2. [BOJ 트리와 쿼리 3](https://www.acmicpc.net/problem/13512)
+3. [BOJ 남극 탐험](https://www.acmicpc.net/problem/2927)
 
+
+### :heavy_multiplication_x: FFT
+1. [BOJ 이동](https://www.acmicpc.net/problem/1067)
+2. [BOJ 골드바흐 파티션2](https://www.acmicpc.net/problem/17104)
+
+
+### :fast_forward: 다이나믹 프로그래밍 최적화
+1. [BOJ 나무 자르기](https://www.acmicpc.net/problem/13263)
+2. [BOJ 특공대](https://www.acmicpc.net/problem/4008)
+3. [BOJ 김치](https://www.acmicpc.net/problem/11001)
+4. [BOJ 수열의 OR 점수](https://www.acmicpc.net/problem/13262)
